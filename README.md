@@ -62,8 +62,11 @@ $ cd go_simple_realtime_chat/backend
 # Instale a biblioteca do websocket
 $ go get -u github.com/gorilla/websocket
 
-# Rode os seguintes comandos
-$ go build main.go && go run main.go
+# Após isso crie o package
+$ go build main.go
+
+# Execute o package criado
+$ go run main.go
 
 # O backend estará rodando em
 $ http://localhost:3333

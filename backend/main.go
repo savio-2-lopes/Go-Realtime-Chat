@@ -1,7 +1,7 @@
 package main 
 
 import (
-	"home/savio/go/src/backend/src"// modifique este caminho com o diretorio da pasta
+	"home/savio/go_simple_realtime_chat/backend/src"// modifique este caminho com o diretorio da pasta
 	"flag"
 )
 

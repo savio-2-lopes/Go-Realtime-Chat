@@ -1,7 +1,7 @@
 package backend	
 
 import (
-	"home/savio/go/src/backend/utils" // modifique este caminho com o diretorio da pasta
+	"home/savio/go_simple_realtime_chat/backend/utils" // modifique este caminho com o diretorio da pasta
 	"github.com/gorilla/websocket"
 	"net/http"
 	"strings"

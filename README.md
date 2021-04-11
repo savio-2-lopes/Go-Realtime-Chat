@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Chat" title="Chat" src="./assets/1.gif" width="800px" />
+    <img alt="Chat" title="Chat" src="./assets/01.gif" width="800px" />
 </h3>
  
 <p align="center"> :computer: <strong>Em progresso ...</strong> 🚧</p>

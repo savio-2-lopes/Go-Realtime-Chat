@@ -1,0 +1,15 @@
+.navbar {
+  max-width: 100px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 0 25px;
+  padding-top: 30px;
+}
+
+.navbar img {
+  display: block;
+  width: 15rem;
+  z-index: 999;
+  cursor: pointer;
+}

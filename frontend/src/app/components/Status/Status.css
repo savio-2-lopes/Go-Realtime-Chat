@@ -1,0 +1,26 @@
+.status {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-items: left;
+}
+
+.status .status-icon {
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+}
+
+.status .status-icon.Offline {
+  background-color: red;
+  border: 1px solid red;
+}
+
+.status .status-icon.Online {
+  background-color: #01bbe1;
+  border: 1px solid #01bbe1;
+}
+
+.status .status-text {
+  margin-left: 5px;
+}

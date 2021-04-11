@@ -1,0 +1,8 @@
+.main_body {
+  flex-grow: 1;
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 10rem 0px;
+  display: flex;
+  z-index: 0;
+}

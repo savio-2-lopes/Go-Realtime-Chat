@@ -32,7 +32,7 @@
 
 ## 💻 Sobre o projeto
 
-:tada: Um simples Chat Real time utilizado WebSocket, GoLag e React.js
+:tada: Um simples Chat Real time (PetChat) utilizado WebSocket, GoLag e React.js com futuro foco para adoção de pets
 
 <br>
 

@@ -1,6 +1,6 @@
 package backend
 
-import "home/savio/go_simple_realtime_chat/backend/utils"// modifique este caminho com o diretorio da pasta
+import "home/savio/go/src/backend/utils"// modifique este caminho com o diretorio da pasta
 
 type Message struct {
 	ID int64 `json:"id"`

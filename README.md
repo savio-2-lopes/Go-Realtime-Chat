@@ -59,6 +59,13 @@ $ git clone https://github.com/savio-2-lopes/go_simple_realtime_chat.git
 # Entre na pasta backend
 $ cd go_simple_realtime_chat/backend
 
+# Caso esteja no Linux, modifique os imports abaixo para a localização da pasta de sua máquina
+$ import "home/DIRETORIO/go/src/backend/utils"
+$ import "home/DIRETORIO/go/src/backend/src"
+
+# Para registrar esse diretório, utilize o seguinte comando na pasta backend
+$ go mod init <DIRETORIO>
+
 # Instale a biblioteca do websocket
 $ go get -u github.com/gorilla/websocket
 

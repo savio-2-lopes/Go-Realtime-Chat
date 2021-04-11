@@ -32,7 +32,7 @@
 
 ## 💻 Sobre o projeto
 
-:tada: Um simples Chat Real time (PetChat) utilizado WebSocket, GoLag e React.js com futuro foco para adoção de pets
+:tada: Um simples Chat Realtime, ou <strong>PetChat</strong>, utilizado WebSocket, Go Lag e React.js com futuro foco para adoção de pets
 
 <br>
 
@@ -43,7 +43,7 @@
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [GO](https://golang.org/) e o gerenciador de pacotes [Yarn](https://yarnpkg.com/).
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Go Lang](https://golang.org/) e o gerenciador de pacotes [Yarn](https://yarnpkg.com/).
 Além disto é bom ter um editor para trabalhar com o código, como [VSCode](https://code.visualstudio.com/)
 Para seu devido fucionamento, o Backend e o fronted devem está rodando.
 

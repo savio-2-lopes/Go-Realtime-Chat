@@ -54,10 +54,10 @@ Para seu devido fucionamento, o Backend e o fronted devem está rodando.
 ```bash
 
 # Primeiramente, clone este repositório
-$ git clone https://github.com/savio-2-lopes/api_node.js.git
+$ git clone https://github.com/savio-2-lopes/go_simple_realtime_chat.git
 
 # Entre na pasta backend
-$ cd api_node/backend
+$ cd go_simple_realtime_chat/backend
 
 # Instale a biblioteca do websocket
 $ go get -u github.com/gorilla/websocket
@@ -77,7 +77,7 @@ $ http://localhost:3333
 ```bash
 
 # Entre na pasta frontend
-$ cd api_node/frontend
+$ cd go_simple_realtime_chat/frontend
 
 # Instale as depedências
 $ yarn

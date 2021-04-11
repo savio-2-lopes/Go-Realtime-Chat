@@ -32,7 +32,7 @@
 
 ## 💻 Sobre o projeto
 
-:rocket: Um simples Chat Real time utilizado WebSocket, GoLag e React.js
+:tada: Um simples Chat Real time utilizado WebSocket, GoLag e React.js
 
 <br>
 

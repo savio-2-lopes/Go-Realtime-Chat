@@ -107,7 +107,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [React.js](https://reactjs.org)
 - [Go Lang](https://golang.org/)
-- [websocket](github.com/gorilla/websocket)
+- [Websocket](https://github.com/gorilla/websocket)
 
 <br>
 

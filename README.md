@@ -2,8 +2,6 @@
     <img alt="Chat" title="Chat" src="./assets/01.gif" width="800px" />
 </h3>
  
-<p align="center"> :computer: <strong>Em progresso ...</strong> 🚧</p>
-
 <p align="center"> 
    <img src="https://img.shields.io/badge/version-0.0.1-yellow.svg" />
   
@@ -21,7 +19,6 @@
 ## :pushpin: Índice
 
 - [Sobre](#sobre-o-projeto)
-- [Progresso](#progresso)
 - [Como executar](#executar)
 - [Tecnologias](#tecnologia)
 - [Licença](#licenca)
@@ -32,7 +29,7 @@
 
 ## 💻 Sobre o projeto
 
-:tada: Um simples Chat Realtime, ou <strong>PetChat</strong>, utilizado WebSocket, Go Lag e React.js com futuro foco para adoção de pets
+:tada: Um simples Chat Realtime utilizado WebSocket, Go Lang e React.js com futuro foco para adoção de pets
 
 <br>
 

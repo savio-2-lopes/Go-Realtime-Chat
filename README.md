@@ -61,10 +61,10 @@ $ import "home/DIRETORIO/go/src/backend/utils"
 $ import "home/DIRETORIO/go/src/backend/src"
 
 # Para registrar esse diretório, utilize o seguinte comando na pasta backend
-$ go mod init <DIRETORIO>
+$ go mod init MY_DIRETORIO
 
 # Instale a biblioteca do websocket
-$ go get -u github.com/gorilla/websocket
+$ go get github.com/gorilla/websocket
 
 # Após isso crie o package
 $ go build main.go
